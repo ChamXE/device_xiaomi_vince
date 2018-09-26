@@ -376,9 +376,9 @@
    <bool name="config_pinnerCameraApp">true</bool>
 
    <!-- enable support for configure max aspect ratio per app -->
-  <bool name="config_haveHigherAspectRatioScreen">true</bool>
+  <bool name="config_haveHigherAspectRatioScreen">false</bool>
 
   <!-- Whether the device supports Smart Pixels -->
-  <bool name="config_enableSmartPixels">true</bool>
+  <bool name="config_enableSmartPixels">false</bool>
 
 </resources>
